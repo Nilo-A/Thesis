@@ -10,4 +10,3 @@ This repository contains the code for the appendix of the thesis, which includes
   - `main.py`: Main script to run the retrieval and evaluation.
 - `requirements.txt`: List of Python dependencies.
 
-## Setup Instructions
