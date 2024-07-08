@@ -4,7 +4,7 @@ This repository contains the code for the appendix of the thesis, which includes
 
 ## Folder Structure
 
-- `src/`: Contains the source code files.
+- the source code files.
   - `preprocessing.py`: Functions for text splitting and tokenizing.
   - `evaluate.py`: Contains evaluation metrics code.
   - `main.py`: Main script to run the retrieval and evaluation.
